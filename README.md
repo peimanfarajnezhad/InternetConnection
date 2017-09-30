@@ -4,7 +4,7 @@ An Android library That **Simplify** Connecting to the Internet
 **sample code:**
 ``` java
 HttpRequest request = new HttpRequest();
-request.url("http://www.zhillamo.com/android/webservice.php");
+request.url("http://www.zhillamo.com/");
 request.cacheExpireTime(120000);
 request.cacheDir(DIR_APP);
 request.enableCache(true);
