@@ -1,0 +1,8 @@
+<resources>
+   <string name="downloading">در حال دانلود…</string>
+   <string name="cancel">انصراف</string>
+   <string name="three_dots">…</string>
+   <string name="from"> از </string>
+   <string name="zero_percent">0%</string>
+   <string name="zero_of_zero">0/0</string>
+</resources>
